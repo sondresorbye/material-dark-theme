@@ -4,4 +4,4 @@ This is a nice theme for Visual Studio Code based on Google's material dark them
 
 Created by Magson
 
-![](assets/screenshot.jpg)
+![](assets/screenshot.JPG)
