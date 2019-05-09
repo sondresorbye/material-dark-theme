@@ -5,6 +5,7 @@
     "version": "0.0.1",
     "author": "magson",
     "publisher": "magson",
+    "icon": "https://raw.githubusercontent.com/sondresorbye0111/material-dark-theme/master/assets/icon.png",
     "readme": "README.md",
     "repository": "https://github.com/sondresorbye0111/material-dark-theme",
     "engines": {
