@@ -1,0 +1,25 @@
+{
+    "name": "material-dark-color-theme",
+    "displayName": "Material Dark Color Theme",
+    "description": "Nice color theme by Sondre Sørbye",
+    "version": "0.0.1",
+    "author": "magson",
+    "publisher": "magson",
+    "readme": "README.md",
+    "repository": "https://github.com/sondresorbye0111/material-dark-theme",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Dark-color-theme.json"
+            }
+        ]
+    }
+}
